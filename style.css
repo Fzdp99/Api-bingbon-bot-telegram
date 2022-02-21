@@ -1,0 +1,59 @@
+body{
+     background-image: url("bgimage.png");
+}
+.judul{
+     margin-top: 100px;
+     margin-left: auto;
+     margin-right: auto;
+     margin-bottom: 10px;
+     background-color: lightblue;
+     width: 500px;
+     font-family: cursive;
+     font-size: 50px;
+     color: black;
+     border: 5px double black;
+     border-radius: 20px;
+}
+.isi{
+     margin: 0px auto;
+     border-radius: 20px;
+     width: 1200px;
+}
+.nama{
+     text-align: center;
+}
+.bt{
+     margin: 0px auto;
+     width: 150px;
+}
+.load{
+     width: 250px;
+     margin-top: 0;
+     margin-left: 75px;
+     margin-bottom: 10px;
+}
+.inputtime{
+     margin-bottom: 5px;
+}
+.clear{
+     clear: right;
+}
+#time{
+     margin-top: -40px;
+     float: right;
+}
+#wtnya{
+     margin-top: -40px;
+     float: right;
+}
+.waktu{
+     float: right;
+     margin-right: 75px;
+     width: 180px;
+     background-color: lightblue;
+     border-radius: 10px;
+     padding-left: 10px;
+     padding-right: 10px;
+     padding-top: 10px;
+     border: 1px solid black;
+}
